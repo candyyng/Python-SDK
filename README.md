@@ -1,6 +1,8 @@
 ## Integrating MOLPay with Python SDK
 Version 1.0.0
 
+<img src="https://user-images.githubusercontent.com/38641542/39343400-36565f9e-4a0f-11e8-9efc-18f699fcbb12.jpg">
+
 ### Pre-Requisite
 1. Python 3.
 2. Flask.
