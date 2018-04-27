@@ -1,4 +1,7 @@
 ## Integrating MOLPay with Python SDK
+
+<https://user-images.githubusercontent.com/38641542/39343400-36565f9e-4a0f-11e8-9efc-18f699fcbb12.jpg">
+
 Version 1.0.0
 
 ### Pre-Requisite
